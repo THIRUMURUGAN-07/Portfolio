@@ -6,7 +6,7 @@ A clean, modern, responsive developer portfolio built with HTML5, CSS3, and Vani
 1. **Lead Query API**: [https://github.com/THIRUMURUGAN-07/Lead-Query-API](https://github.com/THIRUMURUGAN-07/Lead-Query-API)
 2. **Social Media Dashboard**: [https://github.com/THIRUMURUGAN-07/SocialMedia](https://github.com/THIRUMURUGAN-07/SocialMedia)
 3. **LeaveOd Management System**: [https://github.com/THIRUMURUGAN-07/LeaveOd-Project](https://github.com/THIRUMURUGAN-07/LeaveOd-Project)
-4. **Hospital Management System**: [https://github.com/THIRUMURUGAN-07/Halleyx-Project](https://github.com/THIRUMURUGAN-07/Halleyx-Project)
+4. **Halleyx Workflow Engine**: [https://github.com/THIRUMURUGAN-07/Halleyx-Project](https://github.com/THIRUMURUGAN-07/Halleyx-Project)
 
 ---
 
